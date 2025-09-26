@@ -8,7 +8,7 @@ Green hydrogen, produced through electrolysis powered by renewable energy, offer
 
 Despite the environmental benefits, the widespread adoption of green hydrogen in the steel industry faces substantial hurdles, particularly concerning its procurement and storage.  
 ![][image1]  
-“https://share.google/images/PAkmIeUF9MuSBV8Nu”
+“ https://share.google/images/PAkmIeUF9MuSBV8Nu ”
 
 ### Procurement Difficulties
 
